@@ -16,4 +16,4 @@ instance_type = "t2.micro"
 
 # DB instance size
 # default: 'db.t2.micro'
-db_instance_type = "db.t2.medium"
+db_instance_type = "db.t3.medium"
