@@ -24,3 +24,4 @@ junk/**
 python/public
 out/
 ~
+private.key
